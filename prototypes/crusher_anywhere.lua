@@ -1,0 +1,1 @@
+data.raw["assembling-machine"]["crusher"].surface_conditions = nil 
