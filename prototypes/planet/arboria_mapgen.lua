@@ -12,7 +12,6 @@ return {
         cliff_smoothing = 0
     },
     autoplace_controls = {
-        ["stone"] = { richness = 1/6, frequency = 4, size = 4 },
         ["water"] = {},
         ["trees"] = { richness = 3, frequency = 4, size = 3 },
         ["rocks"] = {},
@@ -69,7 +68,6 @@ return {
         ["entity"] = {
             settings = {
                 ["iron-willow"] = {richness = 3, frequency = 4, size = 3},
-                ["stone"] = {},
                 ["water-source"] = {richness = 30, frequency = 4, size = 3},
             }
         }
